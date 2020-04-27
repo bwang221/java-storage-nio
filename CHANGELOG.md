@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.120.1](https://www.github.com/googleapis/java-storage-nio/compare/v0.120.0...v0.120.1) (2020-04-27)
+
+
+### Dependencies
+
+* update dependency com.google.http-client:google-http-client-bom to v1.35.0 ([#93](https://www.github.com/googleapis/java-storage-nio/issues/93)) ([0683dd2](https://www.github.com/googleapis/java-storage-nio/commit/0683dd21731b86d22a9d9f7201dad9deb1878d8a))
+
 ## [0.120.0](https://www.github.com/googleapis/java-storage-nio/compare/0.120.0-alpha...v0.120.0) (2020-04-24)
 
 
